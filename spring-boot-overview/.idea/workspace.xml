@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb96f129-0a98-4f9a-832b-511267454c85" name="Changes" comment="Spring actuator - security">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/spring-boot-overview.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-actuator - security/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-actuator - security/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="eb96f129-0a98-4f9a-832b-511267454c85" name="Changes" comment="Spring actuator - security 0.1">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,11 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1690972775153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Spring actuator - security 0.1">
+      <option name="closed" value="true" />
+      <created>1690973121402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690973121402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Spring actuator - security" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring actuator - security" />
+    <MESSAGE value="Spring actuator - security 0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring actuator - security 0.1" />
   </component>
 </project>
