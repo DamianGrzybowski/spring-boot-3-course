@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-course (1)" />
         <module name="spring-boot-course (2)" />
+        <module name="spring-boot-course (3)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="spring-boot-course" options="-parameters" />
       <module name="spring-boot-course (1)" options="-parameters" />
       <module name="spring-boot-course (2)" options="-parameters" />
+      <module name="spring-boot-course (3)" options="-parameters" />
     </option>
   </component>
 </project>
